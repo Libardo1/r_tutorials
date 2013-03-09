@@ -1,4 +1,5 @@
 # Analisis RFM con R #######
+# Code from: http://decisionstats.com/2012/03/27/doing-rfm-analysis-in-r/
 ##Creating Random Sales Data of the format CustomerId (unique to each customer), Sales.Date,Purchase.Value
 sales=data.frame(sample(1000:1999,replace=T,size=10000),abs(round(rnorm(10000,28,13))))
 names(sales)=c("CustomerId","Sales Value")
