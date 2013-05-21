@@ -1,0 +1,121 @@
+# R Data Mining >> clustering, classification, association rules, sequential patterns, time series analysis and text mining
+library(mboost)
+data(bodyfat)
+str(bodyfat)
+plot(bodyfat$age)
+# Data exploration
+data(iris)
+dim(iris)
+names(iris)
+str(iris)
+attributes(iris)
+iris[1:5,]
+head(iris)
+tail(iris)
+iris[1:10,"Sepal.Length"]
+iris$Sepal.Length[1:10]
+summary(iris)
+quantile(iris$Sepal.Length)
+quantile(iris$Sepal.Length, c(.1, .3, .65))
+var(iris$Sepal.Length)
+hist(iris$Sepal.Length)
+plot(density(iris$Sepal.Length))
+table(iris$Species)
+table(iris$Species,iris$Sepal.Length)
+pie(table(iris$Species))
+barplot(table(iris$Species))
+cov(iris$Sepal.Length, iris$Petal.Length)
+cov(iris[,1:4])
+cor(iris$Sepal.Length, iris$Petal.Length)
+cor(iris[,1:4])
+aggregate(Sepal.Length ~ Species, summary, data=iris)
+boxplot(Sepal.Length~Species, data=iris)
+with(iris, plot(Sepal.Length, Sepal.Width, col=Species, pch=as.numeric(Species)))
+plot(jitter(iris$Sepal.Length), jitter(iris$Sepal.Width))
+pairs(iris)
+pairs(iris,col=iris$Species)
+pairs(iris,col=iris$Species,pch=as.numeric(iris$Species))
+distMatrix <- as.matrix(dist(iris[,1:4]))
+heatmap(distMatrix)
+library(lattice)
+levelplot(Petal.Width~Sepal.Length*Sepal.Width, iris, cuts=9,col.regions=grey.colors(10)[10:1])
+filled.contour(volcano, color=terrain.colors, asp=1,plot.axes=contour(volcano, add=T))
+library(MASS)
+parcoord(iris[1:4], col=iris$Species)
+parallelplot(~iris[1:4] | Species, data=iris)
+library(ggplot2)
+qplot(Sepal.Length, Sepal.Width, data=iris, facets=Species ~.)
+# Decision Trees and Random Forest
+set.seed(1234)
+ind <- sample(2, nrow(iris), replace=TRUE, prob=c(0.7, 0.3))
+trainData <- iris[ind==1,]
+testData <- iris[ind==2,]
+library(party)
+myFormula <- Species ~ Sepal.Length + Sepal.Width + Petal.Length + Petal.Width
+iris_ctree <- ctree(myFormula, data=trainData)
+table(predict(iris_ctree), trainData$Species)
+print(iris_ctree)
+plot(iris_ctree)
+plot(iris_ctree, type="simple")
+testPred <- predict(iris_ctree, newdata = testData)
+table(testPred, testData$Species)
+data("bodyfat", package = "mboost")
+bodyfat[1:5,]
+set.seed(1234)
+ind <- sample(2, nrow(bodyfat), replace=TRUE, prob=c(0.7, 0.3))
+bodyfat.train <- bodyfat[ind==1,]
+bodyfat.test <- bodyfat[ind==2,]
+library(rpart)
+myFormula <- DEXfat ~ age + waistcirc + hipcirc + elbowbreadth + kneebreadth
+bodyfat_rpart <- rpart(myFormula, data = bodyfat.train,control = rpart.control(minsplit = 10))
+attributes(bodyfat_rpart)
+print(bodyfat_rpart$cptable)
+print(bodyfat_rpart)
+plot(bodyfat_rpart)
+text(bodyfat_rpart, use.n=TRUE)
+ind <- sample(2, nrow(iris), replace=TRUE, prob=c(0.7, 0.3))
+trainData <- iris[ind==1,]
+testData <- iris[ind==2,]
+library(randomForest)
+rf <- randomForest(Species ~ ., data=trainData, ntree=100, proximity=TRUE)
+table(predict(rf), trainData$Species)
+print(rf)
+attributes(rf)
+plot(rf)
+importance(rf)
+varImpPlot(rf)
+irisPred <- predict(rf, newdata=testData)
+table(irisPred, testData$Species)
+plot(margin(rf,testData$Species))
+# Regression
+# Linear regression >> y=c0 +c1x1 +c2x2 +···+ckxk,
+year <- rep(2008:2010, each=4)
+quarter <- rep(1:4, 3)
+cpi <- c(162.2, 164.6, 166.5, 166.0, 166.2, 167.0, 168.6, 169.5,171.0, 172.1, 173.3, 174.0)
+plot(cpi, xaxt="n", ylab="CPI", xlab="")
+axis(1, labels=paste(year,quarter,sep="Q"), at=1:12, las=3)
+cor(year,cpi)
+cor(quarter,cpi)
+fit <- lm(cpi ~ year + quarter)
+fit
+cpi2011 <- fit$coefficients[[1]] + fit$coefficients[[2]]*2011 +fit$coefficients[[3]]*(1:4)
+attributes(fit)
+fit$coefficients
+residuals(fit)
+summary(fit)
+plot(fit)
+data2011 <- data.frame(year=2011, quarter=1:4)
+cpi2011 <- predict(fit, newdata=data2011)
+style <- c(rep(1,12), rep(2,4))
+plot(c(cpi, cpi2011), xaxt="n", ylab="CPI", xlab="", pch=style, col=style)
+axis(1, at=1:16, las=3,labels=c(paste(year,quarter,sep="Q"), "2011Q1", "2011Q2", "2011Q3", "2011Q4"))
+# Generalized linear regression
+data("bodyfat", package = "mboost")
+str(bodyfat)
+myFormula <- DEXfat ~ age + waistcirc + hipcirc + elbowbreadth + kneebreadth
+bodyfat.glm <- glm(myFormula, family = gaussian("log"), data = bodyfat)
+summary(bodyfat.glm)
+pred <- predict(bodyfat.glm, type = "response")
+plot(bodyfat$DEXfat, pred, xlab="Observed Values", ylab="Predicted Values")
+
+
