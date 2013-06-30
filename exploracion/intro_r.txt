@@ -1,0 +1,264 @@
+Introduccion a R
+=======================================================
+R project
+----------------------
+http://www.r-project.org/
+
+R is a language and environment for statistical computing and graphics. It is a GNU project which is similar to the S language and environment which was developed at Bell Laboratories (formerly AT&T, now Lucent Technologies) by John Chambers and colleagues. R can be considered as a different implementation of S. There are some important differences, but much code written for S runs unaltered under R.
+
+R provides a wide variety of statistical (linear and nonlinear modelling, classical statistical tests, time-series analysis, classification, clustering, ...) and graphical techniques, and is highly extensible.
+
+R Studio
+----------------------
+http://www.rstudio.com/ide/
+RStudio is a company dedicated to providing software, education, and services for the R statistical computing environment.
+working directory
+----------------------
+setwd()
+
+getwd()
+
+> getwd()
+> "/Users/albertogonzalezpaje/Desktop/rstats/data"
+
+ayuda
+----------------------
+help()
+> help(polygon)
+
+?nombreabuscar
+> ?plot
+
+comentarios
+----------------------
+signo "#"
+
+historia de comandos
+----------------------
+> history()
+> history(100)
+
+cierre de R
+----------------------
+q()
+
+instalacion y carga de librerias
+----------------------
+
+install.packages("nombre libreria")
+> install.packages("ggplot2")
+
+library(nombre libreria)
+> library(ggplot2)
+
+installed.packages()
+
+
+importacion de ficheros
+----------------------
+scan()
+
+read.table()
+
+read.csv()
+> eleccions2010 <- read.csv("~/Downloads/eleccions2010.csv", sep=";", dec=",")
+
+read.delim()
+
+secuencias
+----------------------
+seq(from=x,to=y,by=z)
+
+rep(x,times=y)
+
+estadisticas basicas
+----------------------
+mean(x) , median(x), sd(x), var(x), cor(x,y), cov(x,y)
+
+operadores
+----------------------
+Indexing
+Indexing > [ [[
+Access variables in a name space > :: :::
+Component extraction, slot extraction > $ @
+Exponentiation (right to left) > ^
+Unary minus and plus > - +
+Sequence creation > :
+Special operators > %any%
+Multiplication, division > */
+Addition, subtraction > +-
+Comparison > == != < > <= >= 
+Logical negation > !
+Logical “and”, short-circuit “and” > & &&
+Logical “or”, short-circuit “or” > | ||
+Formula > ~
+Rightward assignment > -> ->>
+Assignment (right to left) > =
+Assignment (right to left) > <- <<-
+Help > ?
+
+trabajo con vectores
+----------------------
+v <- c(10, 20, 30)
+names(v) <- c("Moe", "Larry", "Curly")
+print(v)
+  Moe Larry Curly 
+   10    20    30 
+
+matrices
+----------------------
+A <- 1:6
+print(A)
+[1] 1 2 3 4 5 6
+
+dim(A) <- c(2,3)
+print(A)
+     [,1] [,2] [,3]
+[1,]    1    3    5
+[2,]    2    4    6
+
+operaciones con matrices:
+
+transposicion
+t(A)
+inversa
+solve(A)
+multiplicacion
+A %*% B
+diagonalizar:
+diag(n)
+
+funcion cbind
+----------------------
+cbind(1:3)
+     [,1]
+[1,]    1
+[2,]    2
+[3,]    3
+cbind(1:6, 1:3)
+     [,1] [,2]
+[1,]    1    1
+[2,]    2    2
+[3,]    3    3
+[4,]    4    1
+[5,]    5    2
+[6,]    6    3
+
+exportacion de ficheros
+----------------------
+write.csv(x,file="x.csv")
+write.table(x,file="x.txt")
+
+convertir a factor
+----------------------
+f <- factor(x$id)     donde: f es variable, x es dat frame y id es columna
+
+crear listas
+----------------------
+lst <- list(x, y, z)
+lst <- list(0.5, 0.841, 0.977)
+lst <- list(mid=0.5, right=0.841, far.right=0.977)
+
+seleccionar elementos por posicion
+----------------------
+seleccionar el elemento "n"
+lst[[n]]
+devuelve lista de elementos seleccionados por su posicion
+lst[c(n1, n2, ..., nk)]
+
+nombres de filas y columnas
+----------------------
+rownames(mat) <- c("rowname1", "rowname2", ..., "rownamem")
+colnames(mat) <- c("colname1", "colname2", ..., "colnamen")
+names()
+
+> A <- 1:6
+> A
+> dim(A) <- c(2,3)
+> print(A)
+> rownames(A) <- c("row1","row2")
+> colnames(A) <- c("col1","col2","col3")
+> A
+
+> years <- list(1960, 1964, 1976, 1994)
+> years[[1]]
+> years[c(1,2)]
+
+seleccion de filas/columnas en una matrix
+----------------------
+primera fila
+vec <- mat[1,]
+tercera columna
+vec <- mat[,3]
+
+seleccion de columnas por posicion:
+la columna "n"
+dfrm[[n]]
+la columnas "na, n2..."
+dfrm[c(n1, n2, ..., nk)]
+
+seleccion con la funcion subset:
+subset(dfrm, select=colname)
+subset(dfrm, select=c(colname1, ..., colnameN))
+subset(dfrm, select=c(predictor,response), subset=(response > 0))
+subset(dfrm, select = -badboy)
+
+conversion a data frame
+----------------------
+dfrm <- data.frame(v1, v2, v3, f1, f2)
+
+conversion de datasets de una fila:
+dfrm <- do.call(rbind, obs)
+
+introducir una fila en una columna:
+----------------------
+newRow <- data.frame(city="West Dundee", county="Kane", state="IL", pop=5428)
+suburbs <- rbind(suburbs, newRow)
+
+conversion a data frame
+----------------------
+as.data.frame(x)
+
+eliminar na:
+----------------------
+clean <- na.omit(dfrm)
+
+fusion de data frames con columnas en comun:
+----------------------
+m <- merge(df1, df2, by="name")
+
+conversion de valores atomicos:
+----------------------
+as.character(x)
+as.complex(x)
+as.numeric(x) or as.double(x)
+as.integer(x)
+as.logical(x)
+
+as.data.frame(x)
+as.list(x)
+as.matrix(x)
+as.vector(x)
+
+cuestiones generales
+----------------------
+summary(x)
+head(x)
+tail(x)
+rowSums(x)
+colSums(x)
+breaks <- c(-3,-2,-1,0,1,2,3)
+match(80, vec)
+seq_along(v) %% n == 0
+pmin(1:5, 5:1)
+pmax(1:5, 5:1)
+str(x)
+names(x)
+unique(x)
+
+
+sorting
+----------------------
+dfrm <- dfrm[order(dfrm$key),]
+order(dfrm$month)
+dfrm <- dfrm[order(dfrm$key1,dfrm$key2),]

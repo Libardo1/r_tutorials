@@ -1,0 +1,948 @@
+"original address",latitude,longitude,accuracy,status code
+"Abrera,Barcelona,Spain",41.5160856,1.9021424,4,200
+"Aguilar de Segarra,Barcelona,Spain",41.7397615,1.6293852,4,200
+"Aiguafreda,Barcelona,Spain",41.7688352,2.2502611,4,200
+"Alella,Barcelona,Spain",41.4939555,2.295461,4,200
+"Alpens,Barcelona,Spain",42.1201015,2.1013627,4,200
+"Ametlla del Vallès, l`,Barcelona,Spain",41.6697592,2.261185,4,200
+"Arenys de Mar,Barcelona,Spain",41.579445,2.5514795,4,200
+"Arenys de Munt,Barcelona,Spain",41.6102603,2.5413762,4,200
+"Argençola,Barcelona,Spain",41.5996758,1.443381,4,200
+"Argentona,Barcelona,Spain",41.5555506,2.4005645,4,200
+"Artés,Barcelona,Spain",41.798389,1.9547259,4,200
+"Avià,Barcelona,Spain",42.0774121,1.8253078,4,200
+"Avinyó,Barcelona,Spain",41.862094,1.9719589,4,200
+"Avinyonet del Penedès,Barcelona,Spain",41.360604,1.776485,4,200
+"Badalona,Barcelona,Spain",41.450137,2.2474195,4,200
+"Badia del Vallès,Barcelona,Spain",41.5087033,2.1148642,4,200
+"Bagà,Barcelona,Spain",42.2518827,1.8633638,4,200
+"Balenyà,Barcelona,Spain",41.8163889,2.2363889,4,200
+"Balsareny,Barcelona,Spain",41.86267,1.8733858,4,200
+"Barberà del Vallès,Barcelona,Spain",41.5159611,2.1247233,4,200
+"Barcelona,Barcelona,Spain",41.387917,2.1699187,4,200
+"Begues,Barcelona,Spain",41.3310099,1.9219869,4,200
+"Bellprat,Barcelona,Spain",41.5172494,1.4334585,4,200
+"Berga,Barcelona,Spain",42.1014409,1.8437996,4,200
+"Bigues i Riells,Barcelona,Spain",41.6773292,2.2235273,4,200
+"Borredà,Barcelona,Spain",42.1354085,1.9937535,4,200
+"Bruc, el,Barcelona,Spain",41.3941612,2.1697712,6,200
+"Brull, el,Barcelona,Spain",41.8167689,2.305493,4,200
+"Cabanyes, les,Barcelona,Spain",41.3728896,2.164754,6,200
+"Cabrera d`Anoia,Barcelona,Spain",41.4794444,1.7047222,4,200
+"Cabrera de Mar,Barcelona,Spain",41.5262336,2.3935324,4,200
+"Cabrils,Barcelona,Spain",41.5255257,2.3686452,4,200
+"Calaf,Barcelona,Spain",41.7334187,1.5134983,4,200
+"Calders,Barcelona,Spain",41.7922652,1.996567,4,200
+"Caldes d`Estrac,Barcelona,Spain",41.569457,2.5263181,4,200
+"Caldes de Montbui,Barcelona,Spain",41.6297554,2.1659222,4,200
+"Calella,Barcelona,Spain",41.613405,2.6573645,4,200
+"Calldetenes,Barcelona,Spain",41.9252254,2.2837921,4,200
+"Callús,Barcelona,Spain",41.7810889,1.7840075,4,200
+"Calonge de Segarra,Barcelona,Spain",41.7636269,1.4822492,4,200
+"Campins,Barcelona,Spain",41.7253797,2.4641721,4,200
+"Canet de Mar,Barcelona,Spain",41.5889651,2.5819239,4,200
+"Canovelles,Barcelona,Spain",41.6158215,2.2834556,4,200
+"Cànoves i Samalús,Barcelona,Spain",41.6938443,2.3538418,4,200
+"Canyelles,Barcelona,Spain",41.287075,1.7215691,4,200
+"Capellades,Barcelona,Spain",41.5307542,1.6796126,4,200
+"Capolat,Barcelona,Spain",42.0771325,1.7525649,4,200
+"Cardedeu,Barcelona,Spain",41.6381571,2.3544922,4,200
+"Cardona,Barcelona,Spain",41.9139171,1.6813476,4,200
+"Carme,Barcelona,Spain",41.5312599,1.6234864,4,200
+"Casserres,Barcelona,Spain",42.012335,1.8458337,4,200
+"Castell de l`Areny,Barcelona,Spain",42.1731838,1.9457532,4,200
+"Castellar de n`Hug,Barcelona,Spain",42.2832573,2.016574,4,200
+"Castellar del Riu,Barcelona,Spain",42.122838,1.772439,4,200
+"Castellar del Vallès,Barcelona,Spain",41.6161765,2.0856496,4,200
+"Castellbell i el Vilar,Barcelona,Spain",41.6338889,1.8638889,4,200
+"Castellbisbal,Barcelona,Spain",41.4746738,1.9814068,4,200
+"Castellcir,Barcelona,Spain",41.7604333,2.1486782,4,200
+"Castelldefels,Barcelona,Spain",41.2803885,1.9767745,4,200
+"Castellet i la Gornal,Barcelona,Spain",41.2539133,1.5924776,4,200
+"Castellfollit de Riubregós,Barcelona,Spain",41.7759477,1.4378334,4,200
+"Castellfollit del Boix,Barcelona,Spain",41.6657884,1.6847265,4,200
+"Castellgalí,Barcelona,Spain",41.6745067,1.8395978,4,200
+"Castellnou de Bages,Barcelona,Spain",41.8349854,1.8370721,4,200
+"Castellolí,Barcelona,Spain",41.5989631,1.7007737,4,200
+"Castellterçol,Barcelona,Spain",41.7478739,2.1230902,4,200
+"Castellví de la Marca,Barcelona,Spain",41.332422,1.594271,4,200
+"Castellví de Rosanes,Barcelona,Spain",41.4503685,1.899479,4,200
+"Centelles,Barcelona,Spain",41.7965934,2.221327,4,200
+"Cercs,Barcelona,Spain",42.1516832,1.856175,4,200
+"Cerdanyola del Vallès,Barcelona,Spain",41.4913697,2.1407688,4,200
+"Cervelló,Barcelona,Spain",41.3961517,1.9576207,4,200
+"Collbató,Barcelona,Spain",41.5663829,1.8301341,4,200
+"Collsuspina,Barcelona,Spain",41.8278792,2.1755011,4,200
+"Copons,Barcelona,Spain",41.6366609,1.5176419,4,200
+"Corbera de Llobregat,Barcelona,Spain",41.4176412,1.9328273,4,200
+"Cornellà de Llobregat,Barcelona,Spain",41.3556129,2.0704325,4,200
+"Cubelles,Barcelona,Spain",41.2083457,1.6728252,4,200
+"Dosrius,Barcelona,Spain",41.5948187,2.4053859,4,200
+"Esparreguera,Barcelona,Spain",41.5388887,1.8706916,4,200
+"Esplugues de Llobregat,Barcelona,Spain",41.3775143,2.0880846,4,200
+"Espunyola, l`,Barcelona,Spain",42.0521338,1.7731262,4,200
+"Estany, l`,Barcelona,Spain",41.868577,2.1134993,4,200
+"Figaró-Montmany,Barcelona,Spain",41.7216907,2.2731136,4,200
+"Fígols,Barcelona,Spain",42.180901,1.8360817,4,200
+"Fogars de la Selva,Barcelona,Spain",41.7253879,2.6735662,4,200
+"Fogars de Montclús,Barcelona,Spain",41.7286111,2.4444444,4,200
+"Folgueroles,Barcelona,Spain",41.9381307,2.3179602,4,200
+"Fonollosa,Barcelona,Spain",41.7656564,1.6690174,4,200
+"Font-rubí,Barcelona,Spain",41.4342282,1.5914083,4,200
+"Franqueses del Vallès, les,Barcelona,Spain",41.6188889,2.2980556,4,200
+"Gaià,Barcelona,Spain",41.9172265,1.9248899,4,200
+"Gallifa,Barcelona,Spain",41.6932453,2.1152685,4,200
+"Garriga, la,Barcelona,Spain",41.683199,2.2859957,4,200
+"Gavà,Barcelona,Spain",41.3031677,2.0032133,4,200
+"Gelida,Barcelona,Spain",41.4404736,1.862745,4,200
+"Gironella,Barcelona,Spain",42.0337312,1.8826378,4,200
+"Gisclareny,Barcelona,Spain",42.2501535,1.7865609,4,200
+"Granada, la,Barcelona,Spain",37.1613073,-3.6015344,6,200
+"Granera,Barcelona,Spain",41.72563,2.0615813,4,200
+"Granollers,Barcelona,Spain",41.6082128,2.2877888,4,200
+"Gualba,Barcelona,Spain",41.7314517,2.5027259,4,200
+"Guardiola de Berguedà,Barcelona,Spain",42.233446,1.8791111,4,200
+"Gurb,Barcelona,Spain",41.9539762,2.2355552,4,200
+"Hospitalet de Llobregat, l`,Barcelona,Spain",41.3595829,2.0997037,4,200
+"Hostalets de Pierola, els,Barcelona,Spain",41.5341759,1.7659036,4,200
+"Igualada,Barcelona,Spain",41.5787648,1.6171926,4,200
+"Jorba,Barcelona,Spain",41.6004892,1.5461948,4,200
+"Llacuna, la,Barcelona,Spain",41.3991277,2.1975859,9,200
+"Llagosta, la,Barcelona,Spain",41.5132133,2.1932462,4,200
+"Lliçà d`Amunt,Barcelona,Spain",41.6086446,2.2394426,4,200
+"Lliçà de Vall,Barcelona,Spain",41.5908073,2.2427331,4,200
+"Llinars del Vallès,Barcelona,Spain",41.6393529,2.404427,4,200
+"Lluçà,Barcelona,Spain",42.0504846,2.0350426,4,200
+"Malgrat de Mar,Barcelona,Spain",41.6465481,2.7416344,4,200
+"Malla,Barcelona,Spain",41.8873422,2.2351186,4,200
+"Manlleu,Barcelona,Spain",41.9999479,2.284165,4,200
+"Manresa,Barcelona,Spain",41.7251751,1.8233527,4,200
+"Marganell,Barcelona,Spain",41.6403912,1.7922566,4,200
+"Martorell,Barcelona,Spain",41.473589,1.9276554,4,200
+"Martorelles,Barcelona,Spain",41.525773,2.2428823,4,200
+"Masies de Roda, les,Barcelona,Spain",41.9895578,2.3178529,4,200
+"Masies de Voltregà, les,Barcelona,Spain",42.0211383,2.2340929,4,200
+"Masnou, el,Barcelona,Spain",41.4793117,2.3192438,4,200
+"Masquefa,Barcelona,Spain",41.5030659,1.8119265,4,200
+"Matadepera,Barcelona,Spain",41.5967037,2.0267465,4,200
+"Mataró,Barcelona,Spain",41.5375002,2.4452776,4,200
+"Mediona,Barcelona,Spain",41.4833333,1.6166667,4,200
+"Moià,Barcelona,Spain",41.8127604,2.0974216,4,200
+"Molins de Rei,Barcelona,Spain",41.4139169,2.0158358,4,200
+"Mollet del Vallès,Barcelona,Spain",41.5405218,2.2135289,4,200
+"Monistrol de Calders,Barcelona,Spain",41.7606708,2.014021,9,200
+"Monistrol de Montserrat,Barcelona,Spain",41.6098604,1.8431536,4,200
+"Montcada i Reixac,Barcelona,Spain",41.4823096,2.1885045,4,200
+"Montclar,Barcelona,Spain",42.0180571,1.7640808,4,200
+"Montesquiu,Barcelona,Spain",42.1100069,2.2101737,4,200
+"Montgat,Barcelona,Spain",41.4664522,2.2790882,4,200
+"Montmajor,Barcelona,Spain",42.0176993,1.7352014,4,200
+"Montmaneu,Barcelona,Spain",41.625739,1.4146762,4,200
+"Montmeló,Barcelona,Spain",41.5514602,2.2484649,4,200
+"Montornès del Vallès,Barcelona,Spain",41.5425435,2.2637794,4,200
+"Montseny,Barcelona,Spain",41.7600129,2.3949185,4,200
+"Muntanyola,Barcelona,Spain",41.8783641,2.1773014,4,200
+"Mura,Barcelona,Spain",41.69948,1.976545,4,200
+"Navarcles,Barcelona,Spain",41.7515841,1.9032571,4,200
+"Navàs,Barcelona,Spain",41.9000691,1.8793632,4,200
+"Nou de Berguedà, la,Barcelona,Spain",42.1659917,1.8847645,4,200
+"Òdena,Barcelona,Spain",41.6067262,1.6409088,4,200
+"Olèrdola,Barcelona,Spain",41.3219444,1.7230556,4,200
+"Olesa de Bonesvalls,Barcelona,Spain",41.353009,1.8498871,4,200
+"Olesa de Montserrat,Barcelona,Spain",41.5434007,1.8881533,4,200
+"Olivella,Barcelona,Spain",41.3103368,1.8122788,4,200
+"Olost,Barcelona,Spain",41.9858222,2.095717,4,200
+"Olvan,Barcelona,Spain",42.0573222,1.9056367,4,200
+"Orís,Barcelona,Spain",42.06,2.2402778,4,200
+"Oristà,Barcelona,Spain",41.9324271,2.0603133,4,200
+"Orpí,Barcelona,Spain",41.5186744,1.5752934,4,200
+"Òrrius,Barcelona,Spain",41.5549879,2.3551128,4,200
+"Pacs del Penedès,Barcelona,Spain",41.3615645,1.6694174,4,200
+"Palafolls,Barcelona,Spain",41.6649756,2.7497678,4,200
+"Palau-solità i Plegamans,Barcelona,Spain",41.5886211,2.1792329,4,200
+"Pallejà,Barcelona,Spain",41.4237214,1.9967008,4,200
+"Palma de Cervelló, la,Barcelona,Spain",41.4131046,1.967401,4,200
+"Papiol, el,Barcelona,Spain",41.4389532,2.0106862,4,200
+"Parets del Vallès,Barcelona,Spain",41.5735512,2.2337939,4,200
+"Perafita,Barcelona,Spain",42.0415946,2.1071576,4,200
+"Piera,Barcelona,Spain",41.5179711,1.7432683,4,200
+"Pineda de Mar,Barcelona,Spain",41.6275068,2.6894543,4,200
+"Pla del Penedès, el,Barcelona,Spain",41.4179764,1.7103197,4,200
+"Pobla de Claramunt, la,Barcelona,Spain",41.552991,1.6759206,4,200
+"Pobla de Lillet, la,Barcelona,Spain",42.2434426,1.9747299,4,200
+"Polinyà,Barcelona,Spain",41.5575011,2.1562432,4,200
+"Pont de Vilomara i Rocafort, el,Barcelona,Spain",41.6998688,1.8708547,4,200
+"Pontons,Barcelona,Spain",41.4159878,1.5166998,4,200
+"Prat de Llobregat, el,Barcelona,Spain",41.7793353,1.9888702,0,200
+"Prats de Lluçanès,Barcelona,Spain",42.0087426,2.0285782,4,200
+"Prats de Rei, els,Barcelona,Spain",41.7055015,1.5415308,4,200
+"Premià de Dalt,Barcelona,Spain",41.5065541,2.3430584,4,200
+"Premià de Mar,Barcelona,Spain",41.4895789,2.3565363,4,200
+"Puig-reig,Barcelona,Spain",41.9744578,1.8788555,4,200
+"Puigdàlber,Barcelona,Spain",41.4044145,1.701116,4,200
+"Pujalt,Barcelona,Spain",41.7172405,1.422128,4,200
+"Quar, la,Barcelona,Spain",42.0808496,1.9616303,4,200
+"Rajadell,Barcelona,Spain",41.729233,1.7074195,4,200
+"Rellinars,Barcelona,Spain",41.6374384,1.9109543,9,200
+"Ripollet,Barcelona,Spain",41.4973555,2.1556739,4,200
+"Roca del Vallès, la,Barcelona,Spain",41.5905265,2.3262583,4,200
+"Roda de Ter,Barcelona,Spain",41.9812284,2.3093377,9,200
+"Rubí,Barcelona,Spain",41.4923325,2.0312617,4,200
+"Rubió,Barcelona,Spain",41.6432753,1.5690872,4,200
+"Rupit i Pruit,Barcelona,Spain",42.026026,2.4650487,4,200
+"Sabadell,Barcelona,Spain",41.5486198,2.1074206,4,200
+"Sagàs,Barcelona,Spain",42.0506592,1.9616692,4,200
+"Saldes,Barcelona,Spain",42.2289265,1.7355966,4,200
+"Sallent,Barcelona,Spain",41.8241997,1.8949298,4,200
+"Sant Adrià de Besòs,Barcelona,Spain",41.4305965,2.2182393,4,200
+"Sant Agustí de Lluçanès,Barcelona,Spain",42.0854592,2.1278249,4,200
+"Sant Andreu de la Barca,Barcelona,Spain",41.4471833,1.9759353,4,200
+"Sant Andreu de Llavaneres,Barcelona,Spain",41.5723677,2.4823666,4,200
+"Sant Antoni de Vilamajor,Barcelona,Spain",41.6737032,2.4008589,4,200
+"Sant Bartomeu del Grau,Barcelona,Spain",41.9807601,2.1755984,4,200
+"Sant Boi de Llobregat,Barcelona,Spain",41.3473838,2.0431027,4,200
+"Sant Boi de Lluçanès,Barcelona,Spain",42.0588819,2.1516628,4,200
+"Sant Cebrià de Vallalta,Barcelona,Spain",41.6197756,2.6003067,4,200
+"Sant Celoni,Barcelona,Spain",41.6901851,2.49167,4,200
+"Sant Climent de Llobregat,Barcelona,Spain",41.3378325,1.9957372,9,200
+"Sant Cugat del Vallès,Barcelona,Spain",41.4718638,2.0821392,4,200
+"Sant Cugat Sesgarrigues,Barcelona,Spain",41.3644139,1.7536126,4,200
+"Sant Esteve de Palautordera,Barcelona,Spain",41.7034676,2.4353863,4,200
+"Sant Esteve Sesrovires,Barcelona,Spain",41.4945501,1.8727991,4,200
+"Sant Feliu de Codines,Barcelona,Spain",41.688928,2.1648036,4,200
+"Sant Feliu de Llobregat,Barcelona,Spain",41.3809381,2.0451716,4,200
+"Sant Feliu Sasserra,Barcelona,Spain",41.9447659,2.0224696,4,200
+"Sant Fost de Campsentelles,Barcelona,Spain",41.5145208,2.2347905,4,200
+"Sant Fruitós de Bages,Barcelona,Spain",41.74952,1.8728848,4,200
+"Sant Hipòlit de Voltregà,Barcelona,Spain",42.0155429,2.2362545,4,200
+"Sant Iscle de Vallalta,Barcelona,Spain",41.6237699,2.5691272,4,200
+"Sant Jaume de Frontanyà,Barcelona,Spain",42.1871461,2.0232806,4,200
+"Sant Joan de Vilatorrada,Barcelona,Spain",41.7454941,1.8055433,4,200
+"Sant Joan Despí,Barcelona,Spain",41.3676893,2.0560645,4,200
+"Sant Julià de Cerdanyola,Barcelona,Spain",42.2230555,1.8911192,4,200
+"Sant Julià de Vilatorta,Barcelona,Spain",41.9223129,2.3243507,4,200
+"Sant Just Desvern,Barcelona,Spain",41.3857565,2.0755444,4,200
+"Sant Llorenç d`Hortons,Barcelona,Spain",41.4648528,1.8243985,4,200
+"Sant Llorenç Savall,Barcelona,Spain",41.6798221,2.0593104,4,200
+"Sant Martí d`Albars,Barcelona,Spain",42.0282428,2.0737587,4,200
+"Sant Martí de Centelles,Barcelona,Spain",41.7663251,2.2048198,4,200
+"Sant Martí de Tous,Barcelona,Spain",41.5607215,1.5221472,9,200
+"Sant Martí Sarroca,Barcelona,Spain",41.3857783,1.6114233,4,200
+"Sant Martí Sesgueioles,Barcelona,Spain",41.7020985,1.4879199,4,200
+"Sant Mateu de Bages,Barcelona,Spain",41.7968891,1.7327371,4,200
+"Sant Pere de Ribes,Barcelona,Spain",41.2590969,1.7754176,4,200
+"Sant Pere de Riudebitlles,Barcelona,Spain",41.4534718,1.7016283,4,200
+"Sant Pere de Torelló,Barcelona,Spain",42.0756371,2.296003,4,200
+"Sant Pere de Vilamajor,Barcelona,Spain",41.6849949,2.3904977,4,200
+"Sant Pere Sallavinera,Barcelona,Spain",41.7365713,1.5731762,4,200
+"Sant Pol de Mar,Barcelona,Spain",41.5994452,2.6158716,4,200
+"Sant Quintí de Mediona,Barcelona,Spain",41.4638322,1.6664617,4,200
+"Sant Quirze de Besora,Barcelona,Spain",42.1009408,2.2166109,4,200
+"Sant Quirze del Vallès,Barcelona,Spain",41.5308004,2.086581,4,200
+"Sant Quirze Safaja,Barcelona,Spain",41.7273232,2.1530632,4,200
+"Sant Sadurní d`Anoia,Barcelona,Spain",41.4253476,1.7856727,4,200
+"Sant Sadurní d`Osormort,Barcelona,Spain",41.9032055,2.3814482,4,200
+"Sant Salvador de Guardiola,Barcelona,Spain",41.6797354,1.7665121,9,200
+"Sant Vicenç de Castellet,Barcelona,Spain",41.6658042,1.8638493,4,200
+"Sant Vicenç de Montalt,Barcelona,Spain",41.5826242,2.5099261,4,200
+"Sant Vicenç de Torelló,Barcelona,Spain",42.0623418,2.2727568,4,200
+"Sant Vicenç dels Horts,Barcelona,Spain",41.3936202,2.0098697,4,200
+"Santa Cecília de Voltregà,Barcelona,Spain",41.9930612,2.2199023,4,200
+"Santa Coloma de Cervelló,Barcelona,Spain",41.3668404,2.0150828,4,200
+"Santa Coloma de Gramenet,Barcelona,Spain",41.4510746,2.208978,4,200
+"Santa Eugènia de Berga,Barcelona,Spain",41.9002962,2.2826972,4,200
+"Santa Eulàlia de Riuprimer,Barcelona,Spain",41.9108,2.1888521,4,200
+"Santa Eulàlia de Ronçana,Barcelona,Spain",41.6530556,2.2261111,4,200
+"Santa Fe del Penedès,Barcelona,Spain",41.3843786,1.721198,4,200
+"Santa Margarida de Montbui,Barcelona,Spain",41.5579724,1.6054716,4,200
+"Santa Margarida i els Monjos,Barcelona,Spain",41.3208719,1.6628384,4,200
+"Santa Maria d`Oló,Barcelona,Spain",41.8720736,2.0352909,4,200
+"Santa Maria de Besora,Barcelona,Spain",42.1269561,2.258088,4,200
+"Santa Maria de Corcó,Barcelona,Spain",42.035596,2.3689234,4,200
+"Santa Maria de Martorelles,Barcelona,Spain",41.5195469,2.25424,4,200
+"Santa Maria de Merlès,Barcelona,Spain",42.0010993,1.9777909,4,200
+"Santa Maria de Miralles,Barcelona,Spain",41.5181315,1.5251288,4,200
+"Santa Maria de Palautordera,Barcelona,Spain",41.693195,2.4462271,4,200
+"Santa Perpètua de Mogoda,Barcelona,Spain",41.5348637,2.1789883,4,200
+"Santa Susanna,Barcelona,Spain",41.6406938,2.7168714,4,200
+"Santpedor,Barcelona,Spain",41.7835681,1.8391293,4,200
+"Sentmenat,Barcelona,Spain",41.6116329,2.134932,4,200
+"Seva,Barcelona,Spain",41.8373289,2.2810628,4,200
+"Sitges,Barcelona,Spain",41.2347823,1.8112222,4,200
+"Sobremunt,Barcelona,Spain",42.034611,2.1683734,4,200
+"Sora,Barcelona,Spain",42.1107218,2.1598511,4,200
+"Subirats,Barcelona,Spain",41.3847222,1.7980556,4,200
+"Súria,Barcelona,Spain",41.8317965,1.750768,4,200
+"Tagamanent,Barcelona,Spain",41.7396244,2.2657591,4,200
+"Talamanca,Barcelona,Spain",41.7354434,1.9779209,4,200
+"Taradell,Barcelona,Spain",41.8736336,2.287192,4,200
+"Tavèrnoles,Barcelona,Spain",41.9522693,2.3260513,4,200
+"Tavertet,Barcelona,Spain",41.9960548,2.4193226,4,200
+"Teià,Barcelona,Spain",41.499689,2.3206162,4,200
+"Terrassa,Barcelona,Spain",41.560953,2.0104398,4,200
+"Tiana,Barcelona,Spain",41.4832432,2.2689802,4,200
+"Tona,Barcelona,Spain",41.8478458,2.2277553,4,200
+"Tordera,Barcelona,Spain",41.7020627,2.71902,4,200
+"Torelló,Barcelona,Spain",42.0482431,2.2627203,4,200
+"Torre de Claramunt, la,Barcelona,Spain",41.5358935,1.6616571,4,200
+"Torrelavit,Barcelona,Spain",41.446348,1.7298737,4,200
+"Torrelles de Foix,Barcelona,Spain",41.3883299,1.568705,9,200
+"Torrelles de Llobregat,Barcelona,Spain",41.3538882,1.9766603,4,200
+"Ullastrell,Barcelona,Spain",41.5270691,1.9569313,4,200
+"Vacarisses,Barcelona,Spain",41.6062684,1.9191586,4,200
+"Vallbona d`Anoia,Barcelona,Spain",41.519616,1.7089358,4,200
+"Vallcebre,Barcelona,Spain",42.2039401,1.8182345,4,200
+"Vallgorguina,Barcelona,Spain",41.6483215,2.509912,4,200
+"Vallirana,Barcelona,Spain",41.3887185,1.932255,4,200
+"Vallromanes,Barcelona,Spain",41.5317355,2.2977865,9,200
+"Veciana,Barcelona,Spain",41.6565145,1.4879735,4,200
+"Vic,Barcelona,Spain",41.930291,2.2543496,4,200
+"Vilada,Barcelona,Spain",42.1367662,1.931635,4,200
+"Viladecans,Barcelona,Spain",41.316006,2.0201987,4,200
+"Viladecavalls,Barcelona,Spain",41.5554722,1.9545258,4,200
+"Vilafranca del Penedès,Barcelona,Spain",41.3465173,1.697955,9,200
+"Vilalba Sasserra,Barcelona,Spain",41.6527207,2.4410716,4,200
+"Vilanova de Sau,Barcelona,Spain",41.947535,2.3848981,4,200
+"Vilanova del Camí,Barcelona,Spain",41.5737341,1.6429819,4,200
+"Vilanova del Vallès,Barcelona,Spain",41.5540661,2.2888948,4,200
+"Vilanova i la Geltrú,Barcelona,Spain",41.224151,1.7255678,4,200
+"Vilassar de Dalt,Barcelona,Spain",41.516684,2.3585519,4,200
+"Vilassar de Mar,Barcelona,Spain",41.5018072,2.3908726,4,200
+"Vilobí del Penedès,Barcelona,Spain",41.388351,1.6620883,4,200
+"Viver i Serrateix,Barcelona,Spain",41.9458296,1.7759283,4,200
+"Agullana,Girona,Spain",42.3948322,2.8453781,4,200
+"Aiguaviva,Girona,Spain",41.9371984,2.7606389,4,200
+"Albanyà,Girona,Spain",42.3057298,2.7216225,4,200
+"Albons,Girona,Spain",42.1028938,3.085481,4,200
+"Alp,Girona,Spain",42.3743581,1.8873938,4,200
+"Amer,Girona,Spain",42.0094976,2.604287,4,200
+"Anglès,Girona,Spain",41.9551485,2.6382786,4,200
+"Arbúcies,Girona,Spain",41.8170542,2.5143682,4,200
+"Argelaguer,Girona,Spain",42.2160686,2.6414275,4,200
+"Armentera, l`,Girona,Spain",42.1712275,3.0745244,4,200
+"Avinyonet de Puigventós,Girona,Spain",42.2505068,2.9133063,4,200
+"Banyoles,Girona,Spain",42.1181191,2.7647475,4,200
+"Bàscara,Girona,Spain",42.1571523,2.9106383,4,200
+"Begur,Girona,Spain",41.9537345,3.2081359,4,200
+"Bellcaire d`Empordà,Girona,Spain",42.0792237,3.0960791,4,200
+"Besalú,Girona,Spain",42.2003846,2.6986627,4,200
+"Bescanó,Girona,Spain",41.9662373,2.7393957,4,200
+"Beuda,Girona,Spain",42.236985,2.7097201,4,200
+"Bisbal d`Empordà, la,Girona,Spain",41.9602172,3.0401845,4,200
+"Biure,Girona,Spain",42.3366528,2.8965108,4,200
+"Blanes,Girona,Spain",41.6742739,2.7921031,4,200
+"Boadella i les Escaules,Girona,Spain",42.3313889,2.8569444,4,200
+"Bolvir,Girona,Spain",42.4171631,1.8803098,4,200
+"Bordils,Girona,Spain",42.0454313,2.9098221,4,200
+"Borrassà,Girona,Spain",42.2219643,2.9267288,4,200
+"Breda,Girona,Spain",41.7477219,2.5599478,4,200
+"Brunyola,Girona,Spain",41.9041378,2.6840034,4,200
+"Cabanelles,Girona,Spain",42.2307076,2.8204428,4,200
+"Cabanes,Girona,Spain",42.3088481,2.9768247,4,200
+"Cadaqués,Girona,Spain",42.2889571,3.2783888,4,200
+"Caldes de Malavella,Girona,Spain",41.8393312,2.8096661,4,200
+"Calonge,Girona,Spain",41.8616196,3.0725781,4,200
+"Camós,Girona,Spain",42.0968551,2.7661598,4,200
+"Campdevànol,Girona,Spain",42.2222338,2.1672936,4,200
+"Campelles,Girona,Spain",42.2956897,2.1400318,4,200
+"Campllong,Girona,Spain",41.8964695,2.8322704,4,200
+"Camprodon,Girona,Spain",42.3128269,2.3649985,4,200
+"Canet d`Adri,Girona,Spain",42.0335212,2.7371735,4,200
+"Cantallops,Girona,Spain",42.4197724,2.9241929,4,200
+"Capmany,Girona,Spain",42.3719481,2.9221224,4,200
+"Cassà de la Selva,Girona,Spain",41.8877419,2.8750854,4,200
+"Castell-Platja d`Aro,Girona,Spain",41.8180033,3.0670057,4,200
+"Castellfollit de la Roca,Girona,Spain",42.2191928,2.549913,9,200
+"Castelló d`Empúries,Girona,Spain",42.2582587,3.0744421,4,200
+"Cellera de Ter, la,Girona,Spain",41.9705806,2.6204211,4,200
+"Celrà,Girona,Spain",42.0246182,2.8789672,4,200
+"Cervià de Ter,Girona,Spain",42.0661779,2.9104947,4,200
+"Cistella,Girona,Spain",42.2685762,2.8471891,4,200
+"Colera,Girona,Spain",42.4037521,3.1506128,4,200
+"Colomers,Girona,Spain",42.0837065,2.9860143,4,200
+"Corçà,Girona,Spain",41.9878924,3.0157618,4,200
+"Cornellà del Terri,Girona,Spain",42.0891524,2.8161389,4,200
+"Crespià,Girona,Spain",42.1870701,2.7999213,4,200
+"Cruïlles, Monells i S.Sadurní de l`Heura,Girona,Spain",41.9546876,2.9917942,4,200
+"Darnius,Girona,Spain",42.3660008,2.8347492,4,200
+"Das,Girona,Spain",42.3619798,1.8706233,4,200
+"Escala, l`,Girona,Spain",42.1247446,3.1323851,4,200
+"Espinelves,Girona,Spain",41.8676424,2.4177108,4,200
+"Espolla,Girona,Spain",42.3897024,3.0016038,4,200
+"Esponellà,Girona,Spain",42.1778091,2.7970314,4,200
+"Far d`Empordà, el,Girona,Spain",42.2521289,2.9953019,4,200
+"Figueres,Girona,Spain",42.2674977,2.9608395,4,200
+"Flaçà,Girona,Spain",42.0503273,2.9540669,4,200
+"Foixà,Girona,Spain",42.0390829,2.9979183,4,200
+"Fontanals de Cerdanya,Girona,Spain",42.387655,1.9196949,4,200
+"Fontanilles,Girona,Spain",42.0105896,3.1080863,4,200
+"Fontcoberta,Girona,Spain",42.1426246,2.7898722,4,200
+"Forallac,Girona,Spain",41.957938,3.057389,4,200
+"Fornells de la Selva,Girona,Spain",41.9317387,2.8123888,4,200
+"Fortià,Girona,Spain",42.2447997,3.0396804,4,200
+"Garrigàs,Girona,Spain",42.1935135,2.9543568,4,200
+"Garrigoles,Girona,Spain",42.1073702,3.0295193,4,200
+"Garriguella,Girona,Spain",42.3443049,3.0646294,4,200
+"Ger,Girona,Spain",42.4100819,1.8457635,4,200
+"Girona,Girona,Spain",41.9817957,2.8236999,4,200
+"Gombrèn,Girona,Spain",42.2483671,2.0914624,4,200
+"Gualta,Girona,Spain",42.029718,3.103458,4,200
+"Guils de Cerdanya,Girona,Spain",42.4471474,1.8808021,4,200
+"Hostalric,Girona,Spain",41.7464836,2.6354834,4,200
+"Isòvol,Girona,Spain",42.3778943,1.8185772,4,200
+"Jafre,Girona,Spain",42.0729623,3.0096164,4,200
+"Jonquera, la,Girona,Spain",42.4167299,2.8731755,4,200
+"Juià,Girona,Spain",42.0162162,2.9060802,4,200
+"Lladó,Girona,Spain",42.2479334,2.8144743,4,200
+"Llagostera,Girona,Spain",41.8292201,2.8939308,4,200
+"Llambilles,Girona,Spain",41.9215769,2.8508404,4,200
+"Llanars,Girona,Spain",42.320409,2.3445701,4,200
+"Llançà,Girona,Spain",42.3651845,3.1612172,4,200
+"Llers,Girona,Spain",42.2951406,2.912382,4,200
+"Llívia,Girona,Spain",42.4631638,1.9797037,4,200
+"Lloret de Mar,Girona,Spain",41.6987848,2.8475835,4,200
+"Llosses, les,Girona,Spain",42.150029,2.1155174,4,200
+"Maçanet de Cabrenys,Girona,Spain",42.3855788,2.7536736,4,200
+"Maçanet de la Selva,Girona,Spain",41.7770365,2.7326201,4,200
+"Madremanya,Girona,Spain",41.9901429,2.9555172,4,200
+"Maià de Montcal,Girona,Spain",42.2214349,2.7448131,4,200
+"Masarac,Girona,Spain",42.3513341,2.9711997,4,200
+"Massanes,Girona,Spain",41.7645786,2.6543893,4,200
+"Meranges,Girona,Spain",42.4456022,1.7876774,4,200
+"Mieres,Girona,Spain",42.127,2.6392444,4,200
+"Mollet de Peralada,Girona,Spain",42.3598126,2.9998149,4,200
+"Molló,Girona,Spain",42.3464273,2.4045067,4,200
+"Mont-ras,Girona,Spain",41.9082682,3.1469385,4,200
+"Montagut i Oix,Girona,Spain",42.2316466,2.5954532,4,200
+"Navata,Girona,Spain",42.2234439,2.8619375,4,200
+"Ogassa,Girona,Spain",42.2657926,2.2778402,4,200
+"Olot,Girona,Spain",42.1821095,2.488189,4,200
+"Ordis,Girona,Spain",42.2180884,2.9069209,4,200
+"Osor,Girona,Spain",41.9469954,2.552534,4,200
+"Palafrugell,Girona,Spain",41.9171881,3.1638167,4,200
+"Palamós,Girona,Spain",41.8467643,3.1286356,4,200
+"Palau de Santa Eulàlia,Girona,Spain",42.1736499,2.9651387,4,200
+"Palau-sator,Girona,Spain",41.9881533,3.1103357,4,200
+"Palau-saverdera,Girona,Spain",42.3077552,3.1475848,4,200
+"Palol de Revardit,Girona,Spain",42.071251,2.8030442,4,200
+"Pals,Girona,Spain",41.9712149,3.1488764,4,200
+"Pardines,Girona,Spain",42.3127142,2.2131128,4,200
+"Parlavà,Girona,Spain",42.0218778,3.0318014,4,200
+"Pau,Girona,Spain",42.3145658,3.1142494,4,200
+"Pedret i Marzà,Girona,Spain",42.3104846,3.0680864,4,200
+"Pera, la,Girona,Spain",42.0212379,2.9729454,4,200
+"Peralada,Girona,Spain",42.3079643,3.0104516,4,200
+"Planes d`Hostoles, les,Girona,Spain",42.0557478,2.5376947,9,200
+"Planoles,Girona,Spain",42.3160941,2.1028005,4,200
+"Pont de Molins,Girona,Spain",42.3139539,2.9289855,4,200
+"Pontós,Girona,Spain",42.1867106,2.9165595,4,200
+"Porqueres,Girona,Spain",42.1218553,2.7482116,4,200
+"Port de la Selva, el,Girona,Spain",42.3365934,3.2036884,4,200
+"Portbou,Girona,Spain",42.4265286,3.1593696,4,200
+"Preses, les,Girona,Spain",42.1463447,2.4597909,4,200
+"Puigcerdà,Girona,Spain",42.431348,1.9277281,4,200
+"Quart,Girona,Spain",41.9383303,2.841294,4,200
+"Queralbs,Girona,Spain",42.3495254,2.1633502,4,200
+"Rabós,Girona,Spain",42.379559,3.0268677,4,200
+"Regencós,Girona,Spain",41.9524681,3.1714592,4,200
+"Ribes de Freser,Girona,Spain",42.3063699,2.1691016,4,200
+"Riells i Viabrea,Girona,Spain",41.7216667,2.5516667,4,200
+"Ripoll,Girona,Spain",42.2007953,2.1906228,4,200
+"Riudarenes,Girona,Spain",41.8219795,2.7167258,4,200
+"Riudaura,Girona,Spain",42.188709,2.4074679,4,200
+"Riudellots de la Selva,Girona,Spain",41.8932893,2.8042867,4,200
+"Riumors,Girona,Spain",42.2262392,3.041699,4,200
+"Roses,Girona,Spain",42.2629682,3.174805,4,200
+"Rupià,Girona,Spain",42.0196066,3.0106592,4,200
+"Sales de Llierca,Girona,Spain",42.2372952,2.6574988,4,200
+"Salt,Girona,Spain",41.9741587,2.7925862,4,200
+"Sant Andreu Salou,Girona,Spain",41.8730388,2.8253938,4,200
+"Sant Aniol de Finestres,Girona,Spain",42.0900302,2.5875223,4,200
+"Sant Climent Sescebes,Girona,Spain",42.3686168,2.9806639,4,200
+"Sant Feliu de Buixalleu,Girona,Spain",41.7907143,2.5854278,4,200
+"Sant Feliu de Guíxols,Girona,Spain",41.7805807,3.0307333,4,200
+"Sant Feliu de Pallerols,Girona,Spain",42.0782749,2.509799,4,200
+"Sant Ferriol,Girona,Spain",42.1833333,2.6666667,4,200
+"Sant Gregori,Girona,Spain",41.9906082,2.7595037,4,200
+"Sant Hilari Sacalm,Girona,Spain",41.8789572,2.510884,4,200
+"Sant Jaume de Llierca,Girona,Spain",42.2137362,2.6063699,4,200
+"Sant Joan de les Abadesses,Girona,Spain",42.2334319,2.2855324,4,200
+"Sant Joan de Mollet,Girona,Spain",42.0459081,2.941206,4,200
+"Sant Joan les Fonts,Girona,Spain",42.2124023,2.5116778,4,200
+"Sant Jordi Desvalls,Girona,Spain",42.070581,2.9540443,4,200
+"Sant Julià de Ramis,Girona,Spain",42.0282434,2.8535408,4,200
+"Sant Julià del Llor i Bonmatí,Girona,Spain",41.9702756,2.664303,4,200
+"Sant Llorenç de la Muga,Girona,Spain",42.3211968,2.7895138,4,200
+"Sant Martí de Llémena,Girona,Spain",42.0367168,2.647339,4,200
+"Sant Martí Vell,Girona,Spain",42.0208943,2.9307427,4,200
+"Sant Miquel de Campmajor,Girona,Spain",42.135955,2.6780475,4,200
+"Sant Miquel de Fluvià,Girona,Spain",42.1737642,2.9907213,4,200
+"Sant Mori,Girona,Spain",42.1565232,2.9884151,4,200
+"Sant Pau de Segúries,Girona,Spain",42.261632,2.3659316,4,200
+"Sant Pere Pescador,Girona,Spain",42.1879607,3.0823525,4,200
+"Santa Coloma de Farners,Girona,Spain",41.8608081,2.6677718,4,200
+"Santa Cristina d`Aro,Girona,Spain",41.815661,3.0029273,4,200
+"Santa Llogaia d`Àlguema,Girona,Spain",42.2343901,2.9519058,4,200
+"Santa Pau,Girona,Spain",42.1450573,2.5698411,9,200
+"Sarrià de Ter,Girona,Spain",42.0144577,2.824395,4,200
+"Saus, Camallera i Llampaies,Girona,Spain",42.1226021,2.9619041,4,200
+"Selva de Mar, la,Girona,Spain",42.3246278,3.1876702,4,200
+"Serinyà,Girona,Spain",42.1704111,2.7442675,4,200
+"Serra de Daró,Girona,Spain",42.0273733,3.0715032,4,200
+"Setcases,Girona,Spain",42.373706,2.3007042,4,200
+"Sils,Girona,Spain",41.8091504,2.743491,4,200
+"Siurana,Girona,Spain",42.2093486,2.994269,4,200
+"Susqueda,Girona,Spain",41.9833333,2.5166667,4,200
+"Tallada d`Empordà, la,Girona,Spain",42.0800172,3.0567727,4,200
+"Terrades,Girona,Spain",42.310355,2.8396452,4,200
+"Torrent,Girona,Spain",41.9524572,3.1283895,4,200
+"Torroella de Fluvià,Girona,Spain",42.1755679,3.039541,4,200
+"Torroella de Montgrí,Girona,Spain",42.0431787,3.1263609,4,200
+"Tortellà,Girona,Spain",42.2336945,2.6302779,4,200
+"Toses,Girona,Spain",42.3207591,2.0141523,4,200
+"Tossa de Mar,Girona,Spain",41.7201833,2.9320973,4,200
+"Ullà,Girona,Spain",42.0517807,3.1097331,4,200
+"Ullastret,Girona,Spain",42.000874,3.0699308,4,200
+"Ultramort,Girona,Spain",42.0379811,3.0354234,4,200
+"Urús,Girona,Spain",42.3503873,1.852658,4,200
+"Vajol, la,Girona,Spain",42.4043984,2.799725,4,200
+"Vall d`en Bas, la,Girona,Spain",42.121378,2.452299,4,200
+"Vall de Bianya, la,Girona,Spain",42.2108327,2.4572444,9,200
+"Vall-llobrega,Girona,Spain",41.883714,3.1213646,4,200
+"Vallfogona de Ripollès,Girona,Spain",42.1963858,2.3033393,4,200
+"Ventalló,Girona,Spain",42.1495792,3.0263049,4,200
+"Verges,Girona,Spain",42.0628101,3.0458358,4,200
+"Vidrà,Girona,Spain",42.1221136,2.3092776,4,200
+"Vidreres,Girona,Spain",41.790267,2.7800142,4,200
+"Vila-sacra,Girona,Spain",42.2646479,3.0165578,4,200
+"Vilabertran,Girona,Spain",42.2842168,2.9817094,4,200
+"Vilablareix,Girona,Spain",41.9563921,2.7730018,4,200
+"Viladamat,Girona,Spain",42.1323122,3.0754846,4,200
+"Viladasens,Girona,Spain",42.0955047,2.9294096,4,200
+"Vilademuls,Girona,Spain",42.1389588,2.8885705,4,200
+"Viladrau,Girona,Spain",41.8489435,2.3910264,4,200
+"Vilafant,Girona,Spain",42.2464232,2.9375326,4,200
+"Vilajuïga,Girona,Spain",42.3245725,3.0905212,4,200
+"Vilallonga de Ter,Girona,Spain",42.3307501,2.3109588,4,200
+"Vilamacolum,Girona,Spain",42.1959402,3.0564047,4,200
+"Vilamalla,Girona,Spain",42.2169825,2.9701363,4,200
+"Vilamaniscle,Girona,Spain",42.3744496,3.0670371,4,200
+"Vilanant,Girona,Spain",42.2545457,2.8897835,4,200
+"Vilaür,Girona,Spain",42.1433975,2.9554401,4,200
+"Vilobí d`Onyar,Girona,Spain",41.8875235,2.7399021,4,200
+"Vilopriu,Girona,Spain",42.1039579,2.9930082,4,200
+"Aiguamúrcia,Tarragona,Spain",41.3301841,1.3594544,4,200
+"Albinyana,Tarragona,Spain",41.245453,1.4897531,4,200
+"Albiol, l`,Tarragona,Spain",41.2518189,1.08958,4,200
+"Alcanar,Tarragona,Spain",40.544838,0.4811905,4,200
+"Alcover,Tarragona,Spain",41.2623936,1.1701588,4,200
+"Aldea, l`,Tarragona,Spain",40.7418029,0.6119037,4,200
+"Aldover,Tarragona,Spain",40.8797324,0.4995357,4,200
+"Aleixar, l`,Tarragona,Spain",41.2015065,1.0446666,4,200
+"Alfara de Carles,Tarragona,Spain",40.8738657,0.3998365,4,200
+"Alforja,Tarragona,Spain",41.2113272,0.9762403,4,200
+"Alió,Tarragona,Spain",41.2935224,1.3054009,4,200
+"Almoster,Tarragona,Spain",41.1971911,1.1124545,4,200
+"Altafulla,Tarragona,Spain",41.1427418,1.3731464,4,200
+"Ametlla de Mar, l`,Tarragona,Spain",40.8850733,0.8033742,4,200
+"Ampolla, l`,Tarragona,Spain",40.8132425,0.7095863,4,200
+"Amposta,Tarragona,Spain",40.7123115,0.579972,4,200
+"Arboç, l`,Tarragona,Spain",41.2653523,1.6035232,4,200
+"Arbolí,Tarragona,Spain",41.2425138,0.9490852,4,200
+"Argentera, l`,Tarragona,Spain",41.1379345,0.909145,4,200
+"Arnes,Tarragona,Spain",40.9109824,0.260313,4,200
+"Ascó,Tarragona,Spain",41.183719,0.5671799,4,200
+"Banyeres del Penedès,Tarragona,Spain",41.2796693,1.5833769,4,200
+"Barberà de la Conca,Tarragona,Spain",41.4130905,1.228101,4,200
+"Batea,Tarragona,Spain",41.0941184,0.3120051,4,200
+"Bellmunt del Priorat,Tarragona,Spain",41.1630819,0.7666381,4,200
+"Bellvei,Tarragona,Spain",41.2399203,1.5772767,4,200
+"Benifallet,Tarragona,Spain",40.9746158,0.5170919,4,200
+"Benissanet,Tarragona,Spain",41.0570463,0.6343785,4,200
+"Bisbal de Falset, la,Tarragona,Spain",41.2792729,0.7221786,4,200
+"Bisbal del Penedès, la,Tarragona,Spain",41.2801999,1.4888961,4,200
+"Blancafort,Tarragona,Spain",41.4379154,1.159119,4,200
+"Bonastre,Tarragona,Spain",41.2221405,1.4403134,4,200
+"Borges del Camp, les,Tarragona,Spain",41.1720643,1.0204666,4,200
+"Bot,Tarragona,Spain",41.00909,0.3821412,4,200
+"Botarell,Tarragona,Spain",41.1356371,0.9896871,4,200
+"Bràfim,Tarragona,Spain",41.268771,1.3412293,4,200
+"Cabacés,Tarragona,Spain",41.2452814,0.731154,4,200
+"Cabra del Camp,Tarragona,Spain",41.3949646,1.2759416,4,200
+"Calafell,Tarragona,Spain",41.2005582,1.5684408,4,200
+"Camarles,Tarragona,Spain",40.771336,0.672512,4,200
+"Cambrils,Tarragona,Spain",41.067056,1.0564192,4,200
+"Canonja, la,Tarragona,Spain",41.1229899,1.1786487,4,200
+"Capafonts,Tarragona,Spain",41.2958772,1.0275762,4,200
+"Capçanes,Tarragona,Spain",41.1015484,0.780364,4,200
+"Caseres,Tarragona,Spain",41.0406197,0.251333,4,200
+"Castellvell del Camp,Tarragona,Spain",41.1799932,1.0987049,4,200
+"Catllar, el,Tarragona,Spain",41.1406368,1.3108356,6,200
+"Colldejou,Tarragona,Spain",41.09893,0.8881252,4,200
+"Conesa,Tarragona,Spain",41.5202019,1.2927092,4,200
+"Constantí,Tarragona,Spain",41.1510429,1.2166753,4,200
+"Corbera d`Ebre,Tarragona,Spain",41.0776354,0.4780503,4,200
+"Cornudella de Montsant,Tarragona,Spain",41.2650619,0.905523,4,200
+"Creixell,Tarragona,Spain",41.168031,1.4406204,4,200
+"Cunit,Tarragona,Spain",41.1988381,1.6367179,4,200
+"Deltebre,Tarragona,Spain",40.7194412,0.7083474,4,200
+"Duesaigües,Tarragona,Spain",41.1447336,0.9291461,4,200
+"Espluga de Francolí, l`,Tarragona,Spain",41.394812,1.0985102,4,200
+"Falset,Tarragona,Spain",41.146334,0.8212665,4,200
+"Fatarella, la,Tarragona,Spain",41.1615848,0.4733999,4,200
+"Febró, la,Tarragona,Spain",41.2771181,1.005036,4,200
+"Figuera, la,Tarragona,Spain",41.1206838,1.1839108,6,200
+"Figuerola del Camp,Tarragona,Spain",41.3710183,1.2640956,4,200
+"Flix,Tarragona,Spain",41.2274423,0.5446956,4,200
+"Forès,Tarragona,Spain",41.4933659,1.2412502,4,200
+"Freginals,Tarragona,Spain",40.6699435,0.5207712,4,200
+"Galera, la,Tarragona,Spain",40.6810158,0.4626295,4,200
+"Gandesa,Tarragona,Spain",41.052142,0.438685,4,200
+"Garcia,Tarragona,Spain",41.1366515,0.6501854,4,200
+"Garidells, els,Tarragona,Spain",41.207489,1.2474851,4,200
+"Ginestar,Tarragona,Spain",41.0420942,0.6326027,4,200
+"Godall,Tarragona,Spain",40.6554386,0.4687304,4,200
+"Gratallops,Tarragona,Spain",41.1928756,0.7754412,4,200
+"Guiamets, els,Tarragona,Spain",41.102005,0.7521071,4,200
+"Horta de Sant Joan,Tarragona,Spain",40.9559894,0.3153664,4,200
+"Lloar, el,Tarragona,Spain",41.1865108,0.7503626,4,200
+"Llorac,Tarragona,Spain",41.5570923,1.307496,4,200
+"Llorenç del Penedès,Tarragona,Spain",41.2842017,1.5506563,4,200
+"Marçà,Tarragona,Spain",41.1268215,0.8007984,4,200
+"Margalef,Tarragona,Spain",41.284324,0.7545403,4,200
+"Mas de Barberans,Tarragona,Spain",40.7347593,0.3733965,4,200
+"Masdenverge,Tarragona,Spain",40.7141391,0.5311569,4,200
+"Masllorenç,Tarragona,Spain",41.2685326,1.4142842,4,200
+"Masó, la,Tarragona,Spain",41.2330161,1.2213867,4,200
+"Maspujols,Tarragona,Spain",41.182805,1.0465985,4,200
+"Masroig, el,Tarragona,Spain",41.1245757,0.7344264,4,200
+"Milà, el,Tarragona,Spain",41.2490383,1.2052496,4,200
+"Miravet,Tarragona,Spain",41.040006,0.5978457,4,200
+"Molar, el,Tarragona,Spain",41.1634753,0.7060272,4,200
+"Mont-ral,Tarragona,Spain",41.2891667,1.3416667,4,200
+"Mont-roig del Camp,Tarragona,Spain",41.0855649,0.9616579,4,200
+"Montblanc,Tarragona,Spain",41.3768551,1.1614697,4,200
+"Montbrió del Camp,Tarragona,Spain",41.1219301,1.005617,4,200
+"Montferri,Tarragona,Spain",41.2652805,1.3667628,4,200
+"Montmell, el,Tarragona,Spain",41.3175,1.4541667,4,200
+"Móra d`Ebre,Tarragona,Spain",41.0885896,0.6391603,4,200
+"Móra la Nova,Tarragona,Spain",41.1009365,0.6511012,4,200
+"Morell, el,Tarragona,Spain",41.1922909,1.2068841,4,200
+"Morera de Montsant, la,Tarragona,Spain",41.265955,0.840601,4,200
+"Nou de Gaià, la,Tarragona,Spain",41.1822901,1.3744789,4,200
+"Nulles,Tarragona,Spain",41.2505789,1.295914,4,200
+"Pallaresos, els,Tarragona,Spain",41.175765,1.2721409,4,200
+"Palma d`Ebre, la,Tarragona,Spain",41.2842466,0.6655047,4,200
+"Passanant i Belltall,Tarragona,Spain",41.5316405,1.1970802,4,200
+"Paüls,Tarragona,Spain",40.9221151,0.4018317,4,200
+"Perafort,Tarragona,Spain",41.1920035,1.2560161,4,200
+"Perelló, el,Tarragona,Spain",40.8754335,0.7124032,4,200
+"Piles, les,Tarragona,Spain",41.5042392,1.3429638,4,200
+"Pinell de Brai, el,Tarragona,Spain",41.0173561,0.5155108,4,200
+"Pira,Tarragona,Spain",41.4239445,1.2021584,4,200
+"Pla de Santa Maria, el,Tarragona,Spain",41.3625563,1.2930289,4,200
+"Pobla de Mafumet, la,Tarragona,Spain",41.1880204,1.2097182,4,200
+"Pobla de Massaluca, la,Tarragona,Spain",41.1810207,0.3540713,4,200
+"Pobla de Montornès, la,Tarragona,Spain",41.1787781,1.4146188,4,200
+"Poboleda,Tarragona,Spain",41.2349586,0.8457368,4,200
+"Pont d`Armentera, el,Tarragona,Spain",41.384068,1.3626146,4,200
+"Pontils,Tarragona,Spain",41.4772418,1.3882711,4,200
+"Porrera,Tarragona,Spain",41.1879143,0.8540307,4,200
+"Pradell de la Teixeta,Tarragona,Spain",41.1569302,0.8759075,4,200
+"Prades,Tarragona,Spain",41.30876,0.9884451,4,200
+"Prat de Comte,Tarragona,Spain",40.9829821,0.4056279,4,200
+"Pratdip,Tarragona,Spain",41.0518858,0.8716488,4,200
+"Puigpelat,Tarragona,Spain",41.277879,1.297163,4,200
+"Querol,Tarragona,Spain",41.4245023,1.3979004,4,200
+"Rasquera,Tarragona,Spain",41.0026734,0.6005385,4,200
+"Renau,Tarragona,Spain",41.2244955,1.3116477,4,200
+"Reus,Tarragona,Spain",41.1548179,1.108676,4,200
+"Riba-roja d`Ebre,Tarragona,Spain",41.2505754,0.4876638,4,200
+"Riba, la,Tarragona,Spain",41.116396,1.2466081,6,200
+"Riera de Gaià, la,Tarragona,Spain",41.1698309,1.366804,9,200
+"Riudecanyes,Tarragona,Spain",41.1305347,0.9625295,4,200
+"Riudecols,Tarragona,Spain",41.1676826,0.9759995,4,200
+"Riudoms,Tarragona,Spain",41.1386105,1.0558138,4,200
+"Rocafort de Queralt,Tarragona,Spain",41.4771526,1.2824012,4,200
+"Roda de Barà,Tarragona,Spain",41.1853757,1.4566875,4,200
+"Rodonyà,Tarragona,Spain",41.2818432,1.3996391,4,200
+"Roquetes,Tarragona,Spain",40.821086,0.5021107,4,200
+"Rourell, el,Tarragona,Spain",41.2229421,1.2174217,4,200
+"Salomó,Tarragona,Spain",41.2303997,1.376109,4,200
+"Salou,Tarragona,Spain",41.0766755,1.1444986,4,200
+"Sant Carles de la Ràpita,Tarragona,Spain",40.6202045,0.5928925,4,200
+"Sant Jaume d`Enveja,Tarragona,Spain",40.7039917,0.7173735,4,200
+"Sant Jaume dels Domenys,Tarragona,Spain",41.2993365,1.5590533,4,200
+"Santa Bàrbara,Tarragona,Spain",40.7144251,0.4922784,4,200
+"Santa Coloma de Queralt,Tarragona,Spain",41.5308881,1.3814796,4,200
+"Santa Oliva,Tarragona,Spain",41.2525168,1.5493767,4,200
+"Sarral,Tarragona,Spain",41.4453979,1.2461364,4,200
+"Savallà del Comtat,Tarragona,Spain",41.5430386,1.3002929,4,200
+"Secuita, la,Tarragona,Spain",41.204132,1.2806227,4,200
+"Selva del Camp, la,Tarragona,Spain",41.2141349,1.1396062,4,200
+"Senan,Tarragona,Spain",41.4699412,1.0854505,4,200
+"Sénia, la,Tarragona,Spain",40.633388,0.2853313,4,200
+"Solivella,Tarragona,Spain",41.4558225,1.1785817,4,200
+"Tarragona,Tarragona,Spain",41.1186629,1.24533,4,200
+"Tivenys,Tarragona,Spain",40.9074035,0.5112524,4,200
+"Tivissa,Tarragona,Spain",41.0395663,0.7331267,4,200
+"Torre de Fontaubella, la,Tarragona,Spain",41.1251693,0.8647319,4,200
+"Torre de l`Espanyol, la,Tarragona,Spain",41.1925067,0.6271237,4,200
+"Torredembarra,Tarragona,Spain",41.1445142,1.3971,4,200
+"Torroja del Priorat,Tarragona,Spain",41.2131681,0.8101557,4,200
+"Tortosa,Tarragona,Spain",40.8110042,0.5209974,4,200
+"Ulldecona,Tarragona,Spain",40.5972869,0.4427551,4,200
+"Ulldemolins,Tarragona,Spain",41.3227234,0.8768876,4,200
+"Vallclara,Tarragona,Spain",41.3773736,0.9820189,4,200
+"Vallfogona de Riucorb,Tarragona,Spain",41.5627933,1.2373226,4,200
+"Vallmoll,Tarragona,Spain",41.2436064,1.2492871,4,200
+"Valls,Tarragona,Spain",41.2874357,1.2516619,4,200
+"Vandellòs i l`Hospitalet de l`Infant,Tarragona,Spain",40.9940747,0.9206191,4,200
+"Vendrell, el,Tarragona,Spain",41.2204167,1.5348453,4,200
+"Vespella de Gaià,Tarragona,Spain",41.2054255,1.3594288,4,200
+"Vila-rodona,Tarragona,Spain",41.3096661,1.35811,4,200
+"Vila-seca,Tarragona,Spain",41.1109501,1.1450011,4,200
+"Vilabella,Tarragona,Spain",41.248242,1.3316246,4,200
+"Vilalba dels Arcs,Tarragona,Spain",41.1205485,0.4081464,4,200
+"Vilallonga del Camp,Tarragona,Spain",41.2089985,1.2072605,4,200
+"Vilanova d`Escornalbou,Tarragona,Spain",41.1141893,0.9367994,4,200
+"Vilanova de Prades,Tarragona,Spain",41.3478356,0.9562585,4,200
+"Vilaplana,Tarragona,Spain",41.2289813,1.0328733,4,200
+"Vilaverd,Tarragona,Spain",41.3361996,1.1760766,4,200
+"Vilella Alta, la,Tarragona,Spain",41.2257291,0.7804764,4,200
+"Vilella Baixa, la,Tarragona,Spain",41.2208843,0.7627931,4,200
+"Vimbodí i Poblet,Tarragona,Spain",41.4008038,1.0488505,4,200
+"Vinebre,Tarragona,Spain",41.1837505,0.5898409,4,200
+"Vinyols i els Arcs,Tarragona,Spain",41.1133839,1.0397088,4,200
+"Xerta,Tarragona,Spain",40.9064279,0.4906173,4,200
+"Abella de la Conca,Lleida,Spain",42.1611789,1.0911562,4,200
+"Àger,Lleida,Spain",42.0028246,0.7643949,4,200
+"Agramunt,Lleida,Spain",41.7861117,1.0988114,4,200
+"Aitona,Lleida,Spain",41.4957636,0.4597391,4,200
+"Alamús, els,Lleida,Spain",41.6160974,0.7375647,4,200
+"Alàs i Cerc,Lleida,Spain",42.3515746,1.5050765,4,200
+"Albagés, l`,Lleida,Spain",41.4480967,0.7388024,4,200
+"Albatàrrec,Lleida,Spain",41.5729903,0.6057172,4,200
+"Albesa,Lleida,Spain",41.7519835,0.6582234,4,200
+"Albi, l`,Lleida,Spain",41.4251737,0.9378923,4,200
+"Alcanó,Lleida,Spain",41.4808447,0.6179771,4,200
+"Alcarràs,Lleida,Spain",41.5661386,0.530272,4,200
+"Alcoletge,Lleida,Spain",41.6490929,0.6945253,4,200
+"Alfarràs,Lleida,Spain",41.8309339,0.5681205,4,200
+"Alfés,Lleida,Spain",41.5221258,0.61902,4,200
+"Algerri,Lleida,Spain",41.8144847,0.6366221,4,200
+"Alguaire,Lleida,Spain",41.7379521,0.5897447,4,200
+"Alins,Lleida,Spain",42.5492769,1.3174852,4,200
+"Almacelles,Lleida,Spain",41.7310149,0.4377279,4,200
+"Almatret,Lleida,Spain",41.3052594,0.4244163,4,200
+"Almenar,Lleida,Spain",41.7955173,0.5701049,4,200
+"Alòs de Balaguer,Lleida,Spain",41.9118727,0.9600118,4,200
+"Alpicat,Lleida,Spain",41.6671144,0.5552974,4,200
+"Alt Àneu,Lleida,Spain",42.635288,1.107489,4,200
+"Anglesola,Lleida,Spain",41.6573091,1.0867616,4,200
+"Arbeca,Lleida,Spain",41.5404466,0.9184976,4,200
+"Arres,Lleida,Spain",42.7569,0.712222,4,200
+"Arsèguel,Lleida,Spain",42.3499536,1.5842707,4,200
+"Artesa de Lleida,Lleida,Spain",41.5532128,0.7055162,4,200
+"Artesa de Segre,Lleida,Spain",41.8950081,1.047474,4,200
+"Aspa,Lleida,Spain",41.4957325,0.6723415,4,200
+"Avellanes i Santa Linya, les,Lleida,Spain",41.9078206,0.766037,4,200
+"Baix Pallars,Lleida,Spain",42.3255556,1.0655556,4,200
+"Balaguer,Lleida,Spain",41.7897038,0.805238,4,200
+"Barbens,Lleida,Spain",41.6776561,1.0149927,4,200
+"Baronia de Rialb, la,Lleida,Spain",41.974248,1.1787589,4,200
+"Bassella,Lleida,Spain",42.005753,1.2949752,4,200
+"Bausen,Lleida,Spain",42.834485,0.7167327,4,200
+"Belianes,Lleida,Spain",41.5591185,1.0162851,4,200
+"Bell-lloc d`Urgell,Lleida,Spain",41.6294011,0.7808905,4,200
+"Bellaguarda,Lleida,Spain",41.336977,0.7346494,4,200
+"Bellcaire d`Urgell,Lleida,Spain",41.7574714,0.9065079,4,200
+"Bellmunt d`Urgell,Lleida,Spain",41.7727039,0.9525583,4,200
+"Bellpuig,Lleida,Spain",41.6260709,1.0092164,4,200
+"Bellver de Cerdanya,Lleida,Spain",42.3701531,1.7782706,4,200
+"Bellvís,Lleida,Spain",41.6734901,0.8210204,4,200
+"Benavent de Segrià,Lleida,Spain",41.6962586,0.633923,4,200
+"Biosca,Lleida,Spain",41.8394627,1.3561621,4,200
+"Bòrdes, es,Lleida,Spain",42.7377243,0.7190797,4,200
+"Borges Blanques, les,Lleida,Spain",41.5205236,0.8692022,4,200
+"Bossòst,Lleida,Spain",42.7854503,0.6924253,4,200
+"Bovera,Lleida,Spain",41.3281564,0.6388591,4,200
+"Cabanabona,Lleida,Spain",41.8514935,1.2174372,4,200
+"Cabó,Lleida,Spain",42.2381943,1.2496002,4,200
+"Camarasa,Lleida,Spain",41.8719816,0.8746512,4,200
+"Canejan,Lleida,Spain",42.8382165,0.7382667,4,200
+"Castell de Mur,Lleida,Spain",42.1047073,0.8576803,4,200
+"Castellar de la Ribera,Lleida,Spain",42.0221059,1.4159928,4,200
+"Castelldans,Lleida,Spain",41.4979105,0.7652315,4,200
+"Castellnou de Seana,Lleida,Spain",41.6446866,0.9675318,4,200
+"Castelló de Farfanya,Lleida,Spain",41.8164534,0.7320892,4,200
+"Castellserà,Lleida,Spain",41.7461293,0.9867843,4,200
+"Cava,Lleida,Spain",42.3249832,1.6053646,4,200
+"Cervera,Lleida,Spain",41.6683214,1.2751514,4,200
+"Cervià de les Garrigues,Lleida,Spain",41.4265022,0.860136,4,200
+"Ciutadilla,Lleida,Spain",41.5614488,1.1371393,4,200
+"Clariana de Cardener,Lleida,Spain",41.9334652,1.6239094,4,200
+"Cogul, el,Lleida,Spain",41.4679667,0.6894156,4,200
+"Coll de Nargó,Lleida,Spain",42.17325,1.3165101,4,200
+"Coma i la Pedra, la,Lleida,Spain",42.1777778,1.5908333,1,200
+"Conca de Dalt,Lleida,Spain",42.2441111,0.9713056,4,200
+"Corbins,Lleida,Spain",41.690995,0.6974681,4,200
+"Cubells,Lleida,Spain",41.8531252,0.9575363,4,200
+"Espluga Calba, l`,Lleida,Spain",41.4962775,1.0049311,4,200
+"Espot,Lleida,Spain",42.5758404,1.0889141,4,200
+"Estamariu,Lleida,Spain",42.3740032,1.5240454,4,200
+"Estaràs,Lleida,Spain",41.6912997,1.3777921,4,200
+"Esterri d`Àneu,Lleida,Spain",42.628862,1.1233575,4,200
+"Esterri de Cardós,Lleida,Spain",42.5924117,1.2622141,4,200
+"Farrera,Lleida,Spain",42.4973176,1.2712957,4,200
+"Fígols i Alinyà,Lleida,Spain",42.2031586,1.3400016,4,200
+"Floresta, la,Lleida,Spain",41.504263,0.924303,9,200
+"Fondarella,Lleida,Spain",41.6353634,0.8755022,4,200
+"Foradada,Lleida,Spain",41.8768291,1.0145781,4,200
+"Fuliola, la,Lleida,Spain",41.715031,1.0171277,4,200
+"Fulleda,Lleida,Spain",41.4634846,1.0249828,4,200
+"Gavet de la Conca,Lleida,Spain",42.1227265,0.9211597,4,200
+"Gimenells i el Pla de la Font,Lleida,Spain",41.6524124,0.3896494,4,200
+"Golmés,Lleida,Spain",41.6312698,0.9324688,4,200
+"Gósol,Lleida,Spain",42.2369978,1.6603249,4,200
+"Granadella, la,Lleida,Spain",41.3567187,0.6658524,4,200
+"Granja d`Escarp, la,Lleida,Spain",41.4186052,0.3525815,4,200
+"Granyanella,Lleida,Spain",41.6477207,1.2235292,4,200
+"Granyena de les Garrigues,Lleida,Spain",41.4337037,0.6491443,4,200
+"Granyena de Segarra,Lleida,Spain",41.6224507,1.2456155,4,200
+"Guimerà,Lleida,Spain",41.5641085,1.1844278,4,200
+"Guingueta d`Àneu, la,Lleida,Spain",42.5931733,1.131205,4,200
+"Guissona,Lleida,Spain",41.7866972,1.2907625,4,200
+"Guixers,Lleida,Spain",42.131881,1.6336464,4,200
+"Isona i Conca Dellà,Lleida,Spain",42.1196947,1.0466513,4,200
+"Ivars d`Urgell,Lleida,Spain",41.6835258,0.9885827,4,200
+"Ivars de Noguera,Lleida,Spain",41.8505005,0.5869282,4,200
+"Ivorra,Lleida,Spain",41.7716195,1.3945488,4,200
+"Josa i Tuixén,Lleida,Spain",42.2330556,1.5680556,4,200
+"Juncosa,Lleida,Spain",41.3714823,0.7753397,4,200
+"Juneda,Lleida,Spain",41.5481058,0.8254097,4,200
+"Les,Lleida,Spain",42.8100446,0.710633,4,200
+"Linyola,Lleida,Spain",41.7112639,0.9027762,4,200
+"Lladorre,Lleida,Spain",42.621507,1.2490693,4,200
+"Lladurs,Lleida,Spain",42.0439559,1.5093056,4,200
+"Llardecans,Lleida,Spain",41.3748854,0.5513021,4,200
+"Llavorsí,Lleida,Spain",42.4954971,1.2120278,4,200
+"Lleida,Lleida,Spain",41.6141518,0.6257825,4,200
+"Lles de Cerdanya,Lleida,Spain",42.3900383,1.6878116,4,200
+"Llimiana,Lleida,Spain",42.0765975,0.9161858,4,200
+"Llobera,Lleida,Spain",41.9510407,1.472779,4,200
+"Maials,Lleida,Spain",41.363902,0.5082115,4,200
+"Maldà,Lleida,Spain",41.5508638,1.0398011,4,200
+"Massalcoreig,Lleida,Spain",41.4596935,0.3593504,4,200
+"Massoteres,Lleida,Spain",41.7978493,1.3115244,4,200
+"Menàrguens,Lleida,Spain",41.7280828,0.742645,4,200
+"Miralcamp,Lleida,Spain",41.6042081,0.8817882,4,200
+"Mollerussa,Lleida,Spain",41.6300368,0.8941285,4,200
+"Molsosa, la,Lleida,Spain",41.783661,1.5411331,4,200
+"Montellà i Martinet,Lleida,Spain",42.3597001,1.6956211,4,200
+"Montferrer i Castellbò,Lleida,Spain",42.3417167,1.427727,4,200
+"Montgai,Lleida,Spain",41.7990054,0.9574335,4,200
+"Montoliu de Lleida,Lleida,Spain",41.562338,0.5875061,4,200
+"Montoliu de Segarra,Lleida,Spain",41.5904263,1.2710352,4,200
+"Montornès de Segarra,Lleida,Spain",41.6005603,1.2322004,4,200
+"Nalec,Lleida,Spain",41.5606504,1.1161926,4,200
+"Naut Aran,Lleida,Spain",42.7088889,0.9030556,4,200
+"Navès,Lleida,Spain",41.9907113,1.6404911,4,200
+"Odèn,Lleida,Spain",42.1326391,1.4546931,4,200
+"Oliana,Lleida,Spain",42.0636928,1.3128231,4,200
+"Oliola,Lleida,Spain",41.8752242,1.175909,4,200
+"Olius,Lleida,Spain",42.0095724,1.565473,4,200
+"Oluges, les,Lleida,Spain",41.6962806,1.3211958,4,200
+"Omellons, els,Lleida,Spain",41.5018728,0.9630012,4,200
+"Omells de na Gaia, els,Lleida,Spain",41.5008565,1.0756464,4,200
+"Organyà,Lleida,Spain",42.2114029,1.3288642,4,200
+"Os de Balaguer,Lleida,Spain",41.8727855,0.7197603,4,200
+"Ossó de Sió,Lleida,Spain",41.754264,1.1593297,4,200
+"Palau d`Anglesola, el,Lleida,Spain",41.6516356,0.880874,4,200
+"Penelles,Lleida,Spain",41.7578313,0.9648493,4,200
+"Peramola,Lleida,Spain",42.0585797,1.2673349,4,200
+"Pinell de Solsonès,Lleida,Spain",41.9711502,1.3998185,4,200
+"Pinós,Lleida,Spain",41.8277357,1.5425479,4,200
+"Plans de Sió, els,Lleida,Spain",41.724592,1.205951,4,200
+"Poal, el,Lleida,Spain",41.6781568,0.8516847,4,200
+"Pobla de Cérvoles, la,Lleida,Spain",41.3673838,0.9170161,4,200
+"Pobla de Segur, la,Lleida,Spain",42.2476524,0.9675135,4,200
+"Pont de Bar, el,Lleida,Spain",42.3719609,1.6063154,4,200
+"Pont de Suert, el,Lleida,Spain",42.4084814,0.741766,4,200
+"Ponts,Lleida,Spain",41.9154581,1.1848729,4,200
+"Portella, la,Lleida,Spain",41.7389055,0.6422635,4,200
+"Prats i Sansor,Lleida,Spain",42.3644192,1.8357095,4,200
+"Preixana,Lleida,Spain",41.6073047,1.0364911,4,200
+"Preixens,Lleida,Spain",41.7934386,1.0487129,4,200
+"Prullans,Lleida,Spain",42.3790589,1.7392843,4,200
+"Puiggròs,Lleida,Spain",41.5512708,0.8889367,4,200
+"Puigverd d`Agramunt,Lleida,Spain",41.7763989,1.1216809,4,200
+"Puigverd de Lleida,Lleida,Spain",41.5446207,0.7346072,4,200
+"Rialp,Lleida,Spain",42.4434777,1.1351768,4,200
+"Ribera d`Ondara,Lleida,Spain",41.6235887,1.3180042,4,200
+"Ribera d`Urgellet,Lleida,Spain",42.3266667,1.3972222,4,200
+"Riner,Lleida,Spain",41.9175661,1.5721769,4,200
+"Riu de Cerdanya,Lleida,Spain",42.3455597,1.8262532,4,200
+"Rosselló,Lleida,Spain",41.698439,0.5957855,4,200
+"Salàs de Pallars,Lleida,Spain",42.2115767,0.9324489,4,200
+"Sanaüja,Lleida,Spain",41.8739054,1.3093575,4,200
+"Sant Esteve de la Sarga,Lleida,Spain",42.0805069,0.7636091,4,200
+"Sant Guim de Freixenet,Lleida,Spain",41.6553585,1.4192043,4,200
+"Sant Guim de la Plana,Lleida,Spain",41.7627835,1.3236125,4,200
+"Sant Llorenç de Morunys,Lleida,Spain",42.1368343,1.5909865,4,200
+"Sant Martí de Riucorb,Lleida,Spain",41.558742,1.053771,4,200
+"Sant Ramon,Lleida,Spain",41.7261989,1.3683384,4,200
+"Sarroca de Bellera,Lleida,Spain",42.3597101,0.8811588,4,200
+"Sarroca de Lleida,Lleida,Spain",41.4598606,0.5611271,4,200
+"Senterada,Lleida,Spain",42.3242963,0.93659,4,200
+"Sentiu de Sió, la,Lleida,Spain",41.805298,0.8781835,4,200
+"Seròs,Lleida,Spain",41.4628352,0.4108175,4,200
+"Seu d`Urgell, la,Lleida,Spain",42.3567052,1.4596587,4,200
+"Sidamon,Lleida,Spain",41.6283756,0.8336361,4,200
+"Soleràs, el,Lleida,Spain",41.4125315,0.684953,4,200
+"Solsona,Lleida,Spain",41.9936263,1.5177007,4,200
+"Soriguera,Lleida,Spain",42.3706918,1.1816616,4,200
+"Sort,Lleida,Spain",42.4102371,1.1287633,4,200
+"Soses,Lleida,Spain",41.5337871,0.4879092,4,200
+"Sudanell,Lleida,Spain",41.5561642,0.566377,4,200
+"Sunyer,Lleida,Spain",41.5236768,0.5907821,4,200
+"Talarn,Lleida,Spain",42.1849758,0.8992487,4,200
+"Talavera,Lleida,Spain",41.5817132,1.3390835,4,200
+"Tàrrega,Lleida,Spain",41.6468598,1.1392149,4,200
+"Tarrés,Lleida,Spain",41.4229698,1.0219452,4,200
+"Tarroja de Segarra,Lleida,Spain",41.7317302,1.2769156,4,200
+"Térmens,Lleida,Spain",41.7175947,0.7651012,4,200
+"Tírvia,Lleida,Spain",42.5152501,1.2446194,4,200
+"Tiurana,Lleida,Spain",41.9755782,1.2559294,4,200
+"Torà,Lleida,Spain",41.8122305,1.4009108,4,200
+"Torms, els,Lleida,Spain",41.3945296,0.7221607,4,200
+"Tornabous,Lleida,Spain",41.7015214,1.0526111,4,200
+"Torre de Cabdella, la,Lleida,Spain",42.4738265,0.9922371,4,200
+"Torre-serona,Lleida,Spain",41.6712959,0.6292645,4,200
+"Torrebesses,Lleida,Spain",41.4248105,0.5939408,4,200
+"Torrefarrera,Lleida,Spain",41.6733898,0.6067967,4,200
+"Torrefeta i Florejacs,Lleida,Spain",41.7543227,1.2747611,4,200
+"Torregrossa,Lleida,Spain",41.5811491,0.8252335,4,200
+"Torrelameu,Lleida,Spain",41.7045552,0.7047597,4,200
+"Torres de Segre,Lleida,Spain",41.534059,0.5141932,4,200
+"Tremp,Lleida,Spain",42.1685809,0.8949026,4,200
+"Vall de Boí, la,Lleida,Spain",42.5222336,0.8344225,4,200
+"Vall de Cardós,Lleida,Spain",42.583962,1.2365409,4,200
+"Vallbona de les Monges,Lleida,Spain",41.5255595,1.0894776,4,200
+"Vallfogona de Balaguer,Lleida,Spain",41.7526913,0.813878,4,200
+"Valls d`Aguilar, les,Lleida,Spain",42.295833,1.343056,4,200
+"Valls de Valira, les,Lleida,Spain",42.384444,1.459444,4,200
+"Vansa i Fórnols, la,Lleida,Spain",42.2448,1.4992,4,200
+"Verdú,Lleida,Spain",41.6103406,1.14266,4,200
+"Vielha e Mijaran,Lleida,Spain",42.7016544,0.7956383,4,200
+"Vila-sana,Lleida,Spain",41.6636066,0.9286443,4,200
+"Vilagrassa,Lleida,Spain",41.6471145,1.1035774,4,200
+"Vilaller,Lleida,Spain",42.4765041,0.7174102,4,200
+"Vilamòs,Lleida,Spain",42.7480736,0.725197,4,200
+"Vilanova de Bellpuig,Lleida,Spain",41.6148144,0.9596246,4,200
+"Vilanova de l`Aguda,Lleida,Spain",41.9106647,1.2518063,4,200
+"Vilanova de la Barca,Lleida,Spain",41.6893558,0.7291372,4,200
+"Vilanova de Meià,Lleida,Spain",41.9942878,1.0220767,4,200
+"Vilanova de Segrià,Lleida,Spain",41.7112822,0.620144,4,200
+"Vilosell, el,Lleida,Spain",41.3830537,0.9466231,4,200
+"Vinaixa,Lleida,Spain",41.4288637,0.9736408,4,200
