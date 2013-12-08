@@ -1,0 +1,166 @@
+ Modelo de predicción de densidad de pagos con tarjetas bancarias en función de la densidad de establecimientos y su valoración en google places (Barcelona) 
+========================================================
+
+Introducción y planteamiento teórico
+---------------------------------------
+**El objetivo de este análisis es construir un modelo de predicción que nos permita evaluar si es posible predecir los pagos con tarjetas bancarias en función del número de locales comerciales y su éxito social medido en valoraciones de usuarios en Google Places. Para ello, vamos a tomar como referencia los datos facilitados por el BBVA en su API del datathon Innova data 2013 y los datos facilitados por la API de Google Places.**
+
+Hipótesis de trabajo
+---------------------------------------
+**1. Pensamos que la densidad de pagos con tarjetas bancarias se puede relacionar y en parte explicar en función de la densidad de locales comerciales.**  
+**2. Consideramos que la densidad de locales comerciales en una localización geográfica influye a la hora de decidir la apertura de un nuevo local.**  
+**3. Nos preguntamos si la valoración en Internet de los usuarios sobre los locales comerciales está relacionada con el nivel de gasto por pagos con tarjetas bancarias.**
+
+Carga de paquetes necesarios para el análisis
+----------------------------------------------
+```{r}
+library(car)
+library(gvlma)
+library(relaimpo)
+library(visreg)
+```
+Lectura del fichero base consolidado con datos BBVA + Google Places
+-------------------------------------------------------------------
+```{r}
+# Load data
+bcn_data <- read.csv("http://www.ekonlab.com/innova_bbva/data/bcnMergedExpanded.csv")
+
+```
+
+Primera visión sobre el conjunto de datos
+-------------------------------------------
+
+```{r}
+# First overview
+str(bcn_data)
+```
+
+Coeficiente de correlación entre densidad de pagos y densidad de locales comerciales y valoración de dichos locales comerciales
+-------------------------------------------------------
+```{r}
+# Correlation between numPaymentsDensity and numPlacesDensity
+cor.test(bcn_data$numPaymentsDensity,bcn_data$numPlacesDensity)
+# Correlation between numPaymentsDensity and valueAvg
+cor.test(bcn_data$numPaymentsDensity,bcn_data$valueAvg)
+```
+**Tal y como se puede apreciar en los resultados, existe una fuerte correlación (0.87) entre la densidad de pagos con tarjetas y la densidad de locales comerciales obtenida mediante Google Places. Sin embargo, el coeficiente de correlación entre la densidad de pagos con tarjetas y la valoración de los locales comerciales es manifiestamente más baja (0.04).**
+
+Filtrado de datos a modelar en función de un número mínimo de locales evaluados
+--------------------------------------------------------------------
+```{r}
+# Multiple linear regression: numPaymentsDensity as per numPlacesDensity + valueAvg
+# Filtering data with a minimum valued places
+bcn_value <- bcn_data[bcn_data$valuedPlaces>20,]
+```
+**Tras haber realizado diversas pruebas de cálculo, hemos establecido un umbral mínimo de datos cuyos locales han sido evaluados por usuarios. Esta umbral mínimo ha sido establecido en 20**
+
+
+Planteamiento de un modelo de regresión lineal múltiple. Densidad de pagos en función de densidad de locales y valoración de los mismos
+--------------------------------------------------------
+```{r}
+# Regression model
+model_bcn <- lm(numPaymentsDensity ~ numPlacesDensity + valueAvg,data=bcn_value)
+summary(model_bcn)
+model_bcn
+```
+**Tal y como se puede apreciar en los resultados del modelo, podemos explicar la densidad de pagos en buena parte (85,62%) gracias a la información de la densidad de locales y en menor medida, gracias a la información de las valoraciones de los locales**
+
+```{r}
+# four plots, including normal probability plot, of residuals
+plot(model_bcn)
+```
+
+Predicción de la densidad de pagos según una combinación de densidad de locales (100) y valoración de los mismos (4) 
+------------------------------------------------
+```{r}
+# Prediction using predict function
+predict(model_bcn, list(numPlacesDensity=100, valueAvg=4))
+```
+
+Diagnóstico de la regresión
+----------------------------------
+```{r}
+# Regression Diagnostics
+calc.relimp(model_bcn,type=c("lmg","last","first","pratt"),rela=TRUE)
+```
+
+Cálculo de los valores estimados de densidad de pagos aplicando la ecuación del modelo de regresión lineal múltiple
+------------------------------------------
+
+```{r}
+# Function to calculate estimated values of sample data
+places_density <- bcn_value[4]
+value_avg <- bcn_value[5]
+payments_density <- bcn_value[13]
+input_df <- cbind(places_density,value_avg,payments_density)
+```
+**Función para aplicar la ecuación de regresión**
+```{r}
+foo <- function(x,x1){
+  estimated <- -6422.530 + (x*5.003) + (x1*1610.391)
+  estimated
+}
+estimated_payments <- mapply(foo,input_df$numPlacesDensity,input_df$valueAvg)
+```
+**Inclusión de los estimados calculados con la ecuación del modelo**
+```{r}
+# Adding estimated payments
+df <- cbind(input_df,estimated_payments)
+head(df)
+plot(df$numPaymentsDensity,df$estimated_payments)
+```
+
+Análisis de los diferentes sectores económicos que aparecen en los datos de origen
+----------------------------------------------------------
+```{r}
+# Analyzing the regression model for different sectors - fashion, food, hotel
+#  Filtering data with a minimum valued places
+bcn_value <- bcn_data[bcn_data$valuedPlaces>20,]
+str(bcn_value)
+```
+
+
+Food
+-------------------------------------
+```{r}
+# Filtering food
+food_data <- subset(bcn_value,category=="food")
+dim(food_data)
+# Regression model for food
+model_bcn_food <- lm(numPaymentsDensity ~ numPlacesDensity + valueAvg,data=food_data)
+summary(model_bcn_food)
+model_bcn_food
+# four plots, including normal probability plot, of residuals
+plot(model_bcn_food)
+```
+**En este caso, el modelo de regresión aplicado a los datos de todos los sectores si tiene una correspondencia con los resultados de aquellas entradas que pertenecen a la categoría "food"**
+
+Fashion
+--------------------------------------
+**En el caso de los resultados de la categoría "fashion", vamos a usar un umbral mínimo de locales valorados de 3**
+```{r}
+# Filtering fashion
+
+fashion_data <- bcn_data[bcn_data$valuedPlaces>=3 & bcn_data$category=="fashion" ,]
+```
+
+```{r}
+# Fashion model
+model_bcn_fashion <- lm(numPaymentsDensity ~ numPlacesDensity + valueAvg,data=fashion_data)
+summary(model_bcn_fashion)
+model_bcn_fashion
+plot(model_bcn_fashion)
+```
+
+Hotel
+-----------------------------------
+**En el caso de los resultados de la categoría "hotel", vamos a usar un umbral mínimo de locales valorados de 5**
+```{r}
+# Filtering hotel
+hotel_data <- bcn_data[bcn_data$valuedPlaces>=5 & bcn_data$category=="hotel" ,]
+# Hotel model
+model_bcn_hotel <- lm(numPaymentsDensity ~ numPlacesDensity + valueAvg,data=hotel_data)
+summary(model_bcn_hotel)
+model_bcn_hotel
+plot(model_bcn_hotel)
+```
